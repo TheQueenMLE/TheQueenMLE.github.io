@@ -34,7 +34,7 @@ However, sharing components for visualization is trivial. If the interest is mut
 
 Our current plan for monetization is to take donations.  However, we plan to have a number of different routes to profit.  These options are listed below:
 
-- Donations:  Allow players and community members to send ETH to our donation contract. More info and video: https://mylittleethorse.com/about.html
+- Donations:  Allow players and community members to send ETH to our donation contract. More info and video: https://thequeenmle.github.io/about.html
 - HRSY Fee: Charge a small fee for claiming HRSY tokens ie. .008 ETH
 - Renaming HRSY: Charge small fee to give a HRSY token a custom name (paid per character as a vanity feature)
 
